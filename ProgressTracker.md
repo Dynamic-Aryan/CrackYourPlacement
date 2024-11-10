@@ -23,10 +23,10 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 
 | Topic                  | Completion Date | Status     |
 |------------------------|-----------------|------------|
-| Math                   | YYYY-MM-DD      | Completed  |
-| String                 | YYYY-MM-DD      | Completed  |
-| Array                  | YYYY-MM-DD      | Completed  |
-| Queue                  | YYYY-MM-DD      | In Progress |
+| Math                   | YYYY-MM-DD      | Not Started  |
+| String                 | YYYY-MM-DD      | Not Started |
+| Array                  | YYYY-MM-DD      | Not Started  |
+| Queue                  | YYYY-MM-DD      | Not Started |
 | Graph                  | YYYY-MM-DD      | Not Started |
 | Stack                  | YYYY-MM-DD      | Not Started |
 | Tree                   | YYYY-MM-DD      | Not Started |
