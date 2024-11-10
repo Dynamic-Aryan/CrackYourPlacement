@@ -26,67 +26,67 @@ CrackYourInternship/
 ├── Progress Tracker.md     # Optional: Detailed daily progress tracking
 │
 ├── Array/
-│   ├── Questions and Solutions  
+│   ├── Question-solving has started, and their statuses are being tracked
 │
 ├── String/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Linked List/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked
 │  
 ├── Queue/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Stack/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Tree/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked
 │   
 ├── Heap/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Matrix/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked
 │  
 ├── Greedy/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Simulation/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked
 │   
 ├── Sorting/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │
 ├── Recursion/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Randomized/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Backtracking/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Merge Sort/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked
 │  
 ├── Two Pointers/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Divide and Conquer/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Binary Indexed Tree/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │   
 ├── Sliding Window/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │  
 ├── Monotonic Stack/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │  
 ├── Dynamic Programming/
-│   ├── Questions and Solutions 
+│   ├── Question-solving has started, and their statuses are being tracked 
 │  
 
 
