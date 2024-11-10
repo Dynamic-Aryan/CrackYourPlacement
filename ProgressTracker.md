@@ -1,4 +1,4 @@
-# Progress Tracker for Crack Your Internship 🚀
+# Progress Tracker for Crack Your Placement 🚀
 
 This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, aiming to complete **287 questions** in **45-60 days**.
 
