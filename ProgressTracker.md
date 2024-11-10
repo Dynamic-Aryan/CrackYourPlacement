@@ -6,11 +6,11 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 
 ## 📅 Daily Progress Log
 
-| Day | Date       | Questions Solved | Topics Covered       | Link to Solutions                 | Notes                                  |
-|-----|------------|------------------|----------------------|------------------------------------|----------------------------------------|
-| 1   | YYYY-MM-DD | 4                | Array, String       | [Day 1 Solutions](./Day1/)        | Focused on basics of arrays and strings |
-| 2   | YYYY-MM-DD | 5                | Linked List, Queue  | [Day 2 Solutions](./Day2/)        | Worked on linked list and queue operations |
-| 3   | YYYY-MM-DD | 4                | Stack, Tree         | [Day 3 Solutions](./Day3/)        | Practiced stack and tree traversal techniques |
+| Day | Date       | Questions Solved | Topics Covered       | Difficulty               |
+|-----|------------|------------------|----------------------|----------------------------------|
+| 1   | 2024-11-10 | 4                | Array, String       |     2m,2e
+| 2   | YYYY-MM-DD | 5                | Linked List, Queue  | soon..        | 
+| 3   | YYYY-MM-DD | 4                | Stack, Tree         | soon..        | 
 | ... | ...        | ...              | ...                  | ...                                | ...                                    |
 
 > **Note**: Update this table daily with each day’s progress. Link each day's solutions to the appropriate folder for easy access.
@@ -24,8 +24,8 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 | Topic                  | Completion Date | Status     |
 |------------------------|-----------------|------------|
 | Math                   | YYYY-MM-DD      | Not Started  |
-| String                 | YYYY-MM-DD      | Not Started |
-| Array                  | YYYY-MM-DD      | Not Started  |
+| String                 | YYYY-MM-DD      |  Started |
+| Array                  | YYYY-MM-DD      | Started  |
 | Queue                  | YYYY-MM-DD      | Not Started |
 | Graph                  | YYYY-MM-DD      | Not Started |
 | Stack                  | YYYY-MM-DD      | Not Started |
@@ -54,8 +54,8 @@ This section monitors overall progress toward your goal of completing 287 questi
 
 | Target                             | Progress         |
 |------------------------------------|------------------|
-| Total Questions (287)              | 0/287           |
-| Completed Days                     | 0/45-60         |
+| Total Questions (287)              | 4/287           |
+| Completed Days                     | 1/45-60         |
 | Average Daily Questions (4-5/day)  | Current Avg: 0  |
 
 ---
