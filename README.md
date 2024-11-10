@@ -1,5 +1,5 @@
-# -CrackYourPlacement
-# Crack Your Internship 🚀
+# Crack Your Placement🚀
+
 
 Welcome to my DSA Preparation repository! This repository contains solutions and explanations for the **DSA Sheet by Arsh**. My goal is to solve **287 questions** in **45-60 days**, covering essential Data Structures and Algorithms to prepare for tech interviews.
 
