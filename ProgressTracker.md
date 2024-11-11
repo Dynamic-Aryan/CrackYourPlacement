@@ -9,7 +9,7 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 | Day | Date       | Questions Solved | Topics Covered       | Difficulty               |
 |-----|------------|------------------|----------------------|----------------------------------|
 | 1   | 2024-11-10 | 4                | Array,String       |     2m,2e
-| 2   | 2024-11-11 | 5                | Array,String        |  2m,2e
+| 2   | 2024-11-11 | 4                | Array,String        |  2m,2e
 | 3   | YYYY-MM-DD | 4                | Stack, Tree         | soon..        | 
 | ... | ...        | ...              | ...                  | ...                                | ...                                    |
 
