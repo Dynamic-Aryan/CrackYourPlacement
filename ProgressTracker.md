@@ -12,7 +12,12 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 | 2   | 2024-11-11 | 4                | Array,String        |  2m,2e
 | 3   | 2024-11-12 | 4                | Array,String           | 4e        | 
 | 4 | 2024-11-13        |        5      | Array,String ,LinkedList                 | 3m,2e                              | ...                                    |
-
+| 5  | 2024-11-14 |                 | String           | 4e        | 
+| 6   | 2024-11-15 |                 |         |        | 
+| 7   | 2024-11-16 |                 |            |         | 
+| 8   | 2024-11-17 |                 |        |         | 
+| 9   | 2024-11-18 |                 |       |       | 
+| 10   | 2024-11-19 |                |           |     | 
 > **Note**: Update this table daily with each day’s progress. Link each day's solutions to the appropriate folder for easy access.
 
 ---
