@@ -16,7 +16,7 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 | 6   | 2024-11-15 |         5        |   Array,LinkedList      |  2m,3e       | 
 | 7   | 2024-11-16 |          4       | Array, Mathematical           | 2m,2e        | 
 | 8   | 2024-11-17 |          4       | Array, Mathematical       |  2m,2e       | 
-| 9   | 2024-11-18 |                 |       |       | 
+| 9   | 2024-11-18 |            6     |   Array,mathematixal,Matrix    |  3m,3e     | 
 | 10   | 2024-11-19 |                |           |     | 
 > **Note**: Update this table daily with each day’s progress. Link each day's solutions to the appropriate folder for easy access.
 
@@ -26,12 +26,12 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 
 This section tracks the progress of each topic in the DSA Sheet. As each topic is completed, mark it with the completion date.
 
-| Topic                  | Completion Date | Status     |
-|------------------------|-----------------|------------|
+| Topic                  | Completion Date | Status      |
+|------------------------|-----------------|-------------|
 | Math                   | 2024-11-18      |  Completed  |
-| String                 | YYYY-MM-DD      |  Started |
-| Array                  | YYYY-MM-DD      | Started  |
-| Linked List                  | YYYY-MM-DD      | Started  |
+| String                 | YYYY-MM-DD      |  Started    |
+| Array                  | YYYY-MM-DD      | Started     |
+| Linked List            | YYYY-MM-DD      | Started     |
 | Queue                  | YYYY-MM-DD      | Not Started |
 | Graph                  | YYYY-MM-DD      | Not Started |
 | Stack                  | YYYY-MM-DD      | Not Started |
@@ -60,8 +60,8 @@ This section monitors overall progress toward your goal of completing 287 questi
 
 | Target                             | Progress         |
 |------------------------------------|------------------|
-| Total Questions (287)              | 34/287           |
-| Completed Days                     | 8/45-60         |
+| Total Questions (287)              | 40/287           |
+| Completed Days                     | 9/45-60         |
 | Average Daily Questions (4-5/day)  | Current Avg: 4-5  |
 
 ---
