@@ -28,7 +28,7 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 
 | Topic                  | Completion Date | Status     |
 |------------------------|-----------------|------------|
-| Math                   | 2024-11-18      |  Started  |
+| Math                   | 2024-11-18      |  Completed  |
 | String                 | YYYY-MM-DD      |  Started |
 | Array                  | YYYY-MM-DD      | Started  |
 | Linked List                  | YYYY-MM-DD      | Started  |
