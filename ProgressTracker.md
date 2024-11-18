@@ -37,7 +37,7 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 | Stack                  | YYYY-MM-DD      | Not Started |
 | Tree                   | YYYY-MM-DD      | Not Started |
 | Heap                   | YYYY-MM-DD      | Not Started |
-| Matrix                 | YYYY-MM-DD      | Not Started |
+| Matrix                 | YYYY-MM-DD      |  Started |
 | Greedy                 | YYYY-MM-DD      | Not Started |
 | Simulation             | YYYY-MM-DD      | Not Started |
 | Sorting                | YYYY-MM-DD      | Not Started |
