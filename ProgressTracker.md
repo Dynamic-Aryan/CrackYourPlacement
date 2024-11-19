@@ -40,7 +40,7 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 | Matrix                 | YYYY-MM-DD      |  Started |
 | Greedy                 | YYYY-MM-DD      | Not Started |
 | Simulation             | YYYY-MM-DD      | Not Started |
-| Sorting                | YYYY-MM-DD      | Not Started |
+| Searching& Sorting                | YYYY-MM-DD      |  Started |
 | Recursion              | YYYY-MM-DD      | Not Started |
 | Randomized             | YYYY-MM-DD      | Not Started |
 | Backtracking           | YYYY-MM-DD      | Not Started |
