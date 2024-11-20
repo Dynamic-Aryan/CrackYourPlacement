@@ -18,11 +18,11 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 | 8   | 2024-11-17 |          4       | Array, Mathematical       |  2m,2e       | 
 | 9   | 2024-11-18 |            6     |   Array,mathematixal,Matrix    |  3m,3e     | 
 | 10   | 2024-11-19 |            5    | Array,Searching &sorting          |  2m,1h,2e   | 
-| 10   | 2024-11-20 |                |           |     | 
-| 10   | 2024-11-21 |                |           |     | 
-| 10   | 2024-11-22 |                |           |     | 
-| 10   | 2024-11-23 |                |           |     | 
-| 10   | 2024-11-24 |                |           |     | 
+| 11   | 2024-11-20 |        6        | Searching & Sorting,Linked List          | 6e    | 
+| 12   | 2024-11-21 |                |           |     | 
+| 13   | 2024-11-22 |                |           |     | 
+| 14   | 2024-11-23 |                |           |     | 
+| 15   | 2024-11-24 |                |           |     | 
 > **Note**: Update this table daily with each day’s progress. Link each day's solutions to the appropriate folder for easy access.
 
 ---
@@ -65,8 +65,8 @@ This section monitors overall progress toward your goal of completing 287 questi
 
 | Target                             | Progress         |
 |------------------------------------|------------------|
-| Total Questions (287)              | 45/287           |
-| Completed Days                     | 10/45-60         |
+| Total Questions (287)              | 51/287           |
+| Completed Days                     | 11/45-60         |
 | Average Daily Questions (4-5/day)  | Current Avg: 4-5  |
 
 ---
