@@ -45,7 +45,7 @@ This section tracks the progress of each topic in the DSA Sheet. As each topic i
 | Matrix                 | 2024-11-22     |  Completed |
 | Greedy                 | YYYY-MM-DD      | Not Started |
 | Simulation             | YYYY-MM-DD      | Not Started |
-| Searching & Sorting                | YYYY-MM-DD      |  Started |
+| Searching & Sorting                | 2024-11-24      |  Completed |
 | Recursion              | YYYY-MM-DD      | Not Started |
 | Randomized             | YYYY-MM-DD      | Not Started |
 | Backtracking           | YYYY-MM-DD      | Not Started |
