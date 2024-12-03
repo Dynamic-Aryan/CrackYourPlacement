@@ -30,6 +30,7 @@ This file tracks my daily progress as I work through the **DSA Sheet by Arsh**, 
 | 20   | 2024-11-29 |       6         |     Strings      | 3h,3m   | 
 | 21   | 2024-11-30 |       4         |     LinkedList      | 4m   | 
 | 22   | 2024-12-1 |       4         |     LinkedList      | 4m   | 
+| 23   | 2024-12-2 |       5         |     Stacks queues      | 2e, 3m   | 
 > **Note**: Update this table daily with each day’s progress. Link each day's solutions to the appropriate folder for easy access.
 
 ---
@@ -72,8 +73,8 @@ This section monitors overall progress toward your goal of completing 287 questi
 
 | Target                             | Progress         |
 |------------------------------------|------------------|
-| Total Questions (287)              | 106/287           |
-| Completed Days                     | 22/45-60         |
+| Total Questions (287)              | 111/287           |
+| Completed Days                     | 23/45-60         |
 | Average Daily Questions (4-5/day)  | Current Avg: 4-5  |
 
 ---
